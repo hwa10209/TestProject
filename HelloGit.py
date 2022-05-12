@@ -1,2 +1,3 @@
 print("Hello Git!")
-Print("Nice to meet you~")
+print("Nice to meet you~")
+pritn("How are you?")
